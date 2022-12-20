@@ -18,6 +18,12 @@
   <a href="https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/LeetCode-OpenSource/vscode-leetcode.svg?style=flat-square" alt="">
   </a>
+  <a href="https://gitpod.io/#https://github.com/wenchunliu0210/vscode-leetcode">
+    <img
+      src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
+      alt="Contribute with Gitpod"
+    />
+</a>
 </p>
 
 - English Document | [中文文档](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md)
